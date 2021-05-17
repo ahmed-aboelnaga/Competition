@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LightString
+comment0.text=\r\n\ Allows\ the\ change\ of\ state\ of\ all\ the\ bulbs\ on\ a\ garland\r\n\r\n\ @author\ PATHER\ Stevenson\ et\ Aboelnaga\ Ahmed\r\n\ @version\ 28/01/2020\r\n
+comment1.params=n
+comment1.target=LightString(int)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ LightString\r\n
+comment2.params=i
+comment2.target=Lightbulb\ getLight(int)
+comment2.text=\r\n\ get\ the\ lightbulb\ in\ range\ i\ of\ the\ table\ \r\n\ @param\ \ i\ the\ index\ of\ the\ lightbulb\r\n\ @return\ \ the\ lightlab\ with\ index\ i\ \r\n
+comment3.params=i\ theBulb
+comment3.target=void\ changeLightbulb(int,\ Lightbulb)
+comment3.text=\ replace\ the\ n-th\ lightbulb\ of\ the\ light\ string\ by\ the\ given\ lightbulb.\r\n\ \ Nothing\ happens\ if\ i\ is\ not\ a\ valid\ index.\r\n\ @param\ i\ the\ number\ of\ the\ lightbulb\ to\ be\ changed\ (first\ has\ number\ 1)\r\n\ @param\ theBulb\ the\ new\ lightbulb\r\n
+comment4.params=
+comment4.target=void\ switchLightString()
+comment4.text=\r\n\ switch\ \ the\ state\ of\ the\ lightString\ \r\n
+comment5.params=
+comment5.target=double\ getConsumedPower()
+comment5.text=\r\n\ give\ the\ consumed\ power\ by\ the\ lighted\ bulbs\ \r\n
+numComments=6

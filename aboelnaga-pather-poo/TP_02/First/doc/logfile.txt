@@ -1,0 +1,41 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-8-openjdk-amd64/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.11.jar:/usr/share/bluej/hamcrest-core-1.3.jar:/usr/share/bluej/lang-stride.jar:/usr/share/bluej/userlib/pi4j-service.jar:/usr/share/bluej/userlib/pi4j-core.jar:/usr/share/bluej/userlib/pi4j-device.jar:/usr/share/bluej/userlib/pi4j-gpio-extension.jar:/home/cyria/Bureau/S4/POO/TP_02/First
+-d
+/home/cyria/Bureau/S4/POO/TP_02/First/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/home/cyria/Bureau/S4/POO/TP_02/First/Stock.java
+<---- end of javadoc command ---->
+Loading source file /home/cyria/Bureau/S4/POO/TP_02/First/Stock.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_191
+Building tree for all the packages and classes...
+Generating /home/cyria/Bureau/S4/POO/TP_02/First/doc/Stock.html...
+/home/cyria/Bureau/S4/POO/TP_02/First/Stock.java:8: warning - @AMARA is an unknown tag.
+/home/cyria/Bureau/S4/POO/TP_02/First/Stock.java:23: warning - @returns is an unknown tag.
+/home/cyria/Bureau/S4/POO/TP_02/First/Stock.java:61: warning - @returns is an unknown tag.
+Generating /home/cyria/Bureau/S4/POO/TP_02/First/doc/package-frame.html...
+Generating /home/cyria/Bureau/S4/POO/TP_02/First/doc/package-summary.html...
+Generating /home/cyria/Bureau/S4/POO/TP_02/First/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /home/cyria/Bureau/S4/POO/TP_02/First/doc/allclasses-frame.html...
+Generating /home/cyria/Bureau/S4/POO/TP_02/First/doc/allclasses-noframe.html...
+Generating /home/cyria/Bureau/S4/POO/TP_02/First/doc/index.html...
+3 warnings

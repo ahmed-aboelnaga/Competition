@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Stock
+comment0.text=\r\n\ \ Create\ and\ manage\ a\ Stock\ (add,\ remove\ and\ know\ the\ quantity)\r\n\r\n\ @author\ PATHER\ Stevenson\ et\ Aboelnaga\ Ahmed\r\n\ @version\ 28/01/2020\r\n
+comment1.params=
+comment1.target=int\ getQuantity()
+comment1.text=\r\n\ @returns\ the\ quantity\ in\ the\ stock\r\n
+comment2.params=
+comment2.target=Stock()
+comment2.text=\r\n\ initializes\ the\ value\ of\ the\ quantity\ to\ zero\ \r\n
+comment3.params=n
+comment3.target=void\ add(int)
+comment3.text=\r\n\ @param\ n\ \r\n\ increases\ the\ stock\ of\ \u00F1\ element\r\n
+comment4.params=n
+comment4.target=int\ remove(int)
+comment4.text=\r\n\ @param\ n\ \r\n\ increases\ the\ stock\ of\ \u00F1\ element\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ @returns\ the\ quantity\ in\ the\ stock\r\n
+comment6.params=n
+comment6.target=Stock(int)
+comment6.text=\r\n\ initializes\ the\ value\ of\ the\ quantity\ to\ zero\ \r\n
+numComments=7

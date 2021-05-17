@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Switch
+comment0.text=\r\n\ Allows\ one\ and\ only\ one\ Lightbulb\ to\ be\ switched\ on\ and\ off\ (change\ of\ state\ of\ a\ bulb\ using\ a\ switch)\r\n\r\n\ @author\ PATHER\ Stevenson\ et\ Aboelnaga\ Ahmed\r\n\ @version\ 28/01/2020\r\n
+comment1.params=color\ power
+comment1.target=Switch(java.lang.String,\ double)
+comment1.text=\r\n\ Builds\ a\ new\ lightbulb\ in\ the\ Switch\ constructor\r\n\ @param\ color\ the\ color\ of\ the\ new\ lightbulb\r\n\ @param\ power\ the\ power\ of\ the\ new\ lightbulb\r\n
+comment2.params=
+comment2.target=java.lang.String\ getAmp()
+comment2.text=\r\n@return\ the\ String\ representation\ of\ this\ lightbulb\ \r\n
+comment3.params=
+comment3.target=void\ switcher()
+comment3.text=\r\nswitch\ the\ state\ of\ this\ lightbulb\r\n
+numComments=4
